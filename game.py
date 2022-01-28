@@ -63,7 +63,6 @@ def update():
     if held_keys['A']: player.y -= 1
     if held_keys['S']: player.x -= 1
     if held_keys['D']: player.y += 1
-    if held_keys['Space']: player.z += 1
     if held_keys['E']: player.z += 1
     if held_keys['Q']: player.z -= 1
 
