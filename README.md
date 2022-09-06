@@ -11,12 +11,10 @@ Q - fly down
 
 left click - make object go up
 
-
-
 **Work in Progress**
 
 Planned Features:
 - Normal Maps
 - Texture Loading
 
-**Made with Ursina Engine**
+**Made with raylib**
